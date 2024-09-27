@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+
+int main() {
+    string color,pluralnoun,celebrity;
+    cout<< "Enter a color: ";
+    getline(cin, color);
+    cout<< "Enter a pluralnoun: ";
+    getline(cin, pluralnoun);
+    cout<< "Enter a celebrity name: ";
+    getline(cin, celebrity);
+
+    cout<< "Roses are " << color <<endl;
+    cout<< pluralnoun << " are blue" <<endl;
+    cout<< "I love " << celebrity;
+
+    return 0;
+}

@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int number;
+
+    cout << "Enter a number: ";
+    cin >> number;
+
+    // Check if the number is positive and even
+    if (number > 0 && number % 2 == 0) {
+        cout << "The number is positive and even." << endl;
+    }
+    // Check if the number is positive or odd
+    else if (number > 0 || number % 2 != 0) {
+        cout << "The number is either positive or odd." << endl;
+    }
+    // If none of the above conditions are true
+    else {
+        cout << "The number is either negative and even or zero." << endl;
+    }
+
+    return 0;
+}

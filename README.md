@@ -2,11 +2,11 @@
 Welcome to the C++ Fundamentals course! This repository is designed to help you master the essentials of C++ programming in a simple and interactive way. Whether you are a complete beginner or have some programming experience, you'll find valuable resources here to enhance your C++ skills.
 
 # 🚀 Features
-## Loops: Learn and practice for, while, and do-while loops.
-## Arrays: Dive into single and multidimensional arrays.
-## Functions: Understand functions, recursion, and scope.
-## Object-Oriented Programming: Get started with classes, objects, and inheritance.
-## Future Topics: Data Structures and Algorithms (coming soon).
+- Loops: Learn and practice for, while, and do-while loops.
+- Arrays: Dive into single and multidimensional arrays.
+- Functions: Understand functions, recursion, and scope.
+- Object-Oriented Programming: Get started with classes, objects, and inheritance.
+- Future Topics: Data Structures and Algorithms (coming soon).
 
 # 🛠️ Technologies Used
 C++
